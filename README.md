@@ -1,2 +1,2 @@
 # todo-api
-A simple 'todo list' api powered by .NET/C#, my most recent look at picking up the language, certainly isn't production ready and is something I created from a tutorial and will be naturally building upon :-)
+A simple 'todo list' api powered by .NET/C#, something I will be building upon over time.
